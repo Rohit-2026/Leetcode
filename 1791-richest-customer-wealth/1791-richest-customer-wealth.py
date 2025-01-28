@@ -1,7 +1,7 @@
 class Solution:
     def maximumWealth(self, accounts: List[List[int]]) -> int:
-        t=[]
+        t=0
         for i in accounts:
-            t.append(sum(i))
-        return max(t)    
+            t=max(t,sum(i))
+        return t    
         
