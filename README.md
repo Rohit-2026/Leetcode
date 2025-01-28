@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1580-shuffle-the-array](https://github.com/Rohit-2026/Leetcode/tree/master/1580-shuffle-the-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohit-2026/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
