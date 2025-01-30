@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Rohit-2026/Leetcode/tree/master/0567-permutation-in-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohit-2026/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
@@ -38,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/Rohit-2026/Leetcode/tree/master/0684-redundant-connection) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Rohit-2026/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Rohit-2026/Leetcode/tree/master/0567-permutation-in-string) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Rohit-2026/Leetcode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Rohit-2026/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
