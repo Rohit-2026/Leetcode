@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rohit-2026/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1168-duplicate-zeros](https://github.com/Rohit-2026/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1580-shuffle-the-array](https://github.com/Rohit-2026/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/Rohit-2026/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rohit-2026/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Rohit-2026/Leetcode/tree/master/0567-permutation-in-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohit-2026/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
@@ -56,4 +58,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Rohit-2026/Leetcode/tree/master/0567-permutation-in-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rohit-2026/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rohit-2026/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rohit-2026/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rohit-2026/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rohit-2026/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rohit-2026/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
