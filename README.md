@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/Rohit-2026/Leetcode/tree/master/0567-permutation-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/Rohit-2026/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/Rohit-2026/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rohit-2026/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rohit-2026/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Rohit-2026/Leetcode/tree/master/3447-clear-digits) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Rohit-2026/Leetcode/tree/master/0055-jump-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rohit-2026/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/Rohit-2026/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rohit-2026/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Rohit-2026/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
