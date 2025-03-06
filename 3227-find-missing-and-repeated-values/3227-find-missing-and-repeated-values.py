@@ -3,13 +3,14 @@ class Solution:
         t=set()
         f=0
         k=[]
-        for i in range(len(grid)):
-            for j in range(len(grid)):
+        l=len(grid)
+        for i in range(l):
+            for j in range(l):
                 if grid[i][j] not in t:
                     t.add(grid[i][j])
                 else:
                     k.append(grid[i][j])
-        for i in range(1,len(grid)*len(grid)+1):
+        for i in range(1,l*l+1):
             if i not in t:
                 k.append(i)
                 break
