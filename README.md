@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Rohit-2026/Leetcode/tree/master/0768-partition-labels) |
 | [1160-letter-tile-possibilities](https://github.com/Rohit-2026/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Rohit-2026/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1764-maximum-repeating-substring](https://github.com/Rohit-2026/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rohit-2026/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rohit-2026/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rohit-2026/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rohit-2026/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Rohit-2026/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rohit-2026/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1764-maximum-repeating-substring](https://github.com/Rohit-2026/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Rohit-2026/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/Rohit-2026/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Rohit-2026/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rohit-2026/Leetcode/tree/master/0070-climbing-stairs) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/Rohit-2026/Leetcode/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
