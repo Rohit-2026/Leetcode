@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rohit-2026/Leetcode/tree/master/0070-climbing-stairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rohit-2026/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rohit-2026/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rohit-2026/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Rohit-2026/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Rohit-2026/Leetcode/tree/master/0070-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rohit-2026/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Rohit-2026/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rohit-2026/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/Rohit-2026/Leetcode/tree/master/2050-count-good-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rohit-2026/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
