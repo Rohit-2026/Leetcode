@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rohit-2026/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Rohit-2026/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Rohit-2026/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0198-house-robber](https://github.com/Rohit-2026/Leetcode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Rohit-2026/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Rohit-2026/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rohit-2026/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Rohit-2026/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rohit-2026/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Rohit-2026/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0198-house-robber](https://github.com/Rohit-2026/Leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Rohit-2026/Leetcode/tree/master/0338-counting-bits) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rohit-2026/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Rohit-2026/Leetcode/tree/master/1170-shortest-common-supersequence) |
