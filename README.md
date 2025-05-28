@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Rohit-2026/Leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Rohit-2026/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Rohit-2026/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0283-move-zeroes](https://github.com/Rohit-2026/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Rohit-2026/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Rohit-2026/Leetcode/tree/master/0064-minimum-path-sum) |
 | [1791-richest-customer-wealth](https://github.com/Rohit-2026/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rohit-2026/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rohit-2026/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Rohit-2026/Leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Rohit-2026/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rohit-2026/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Rohit-2026/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/Rohit-2026/Leetcode/tree/master/0338-counting-bits) |
