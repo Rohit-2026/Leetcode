@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rohit-2026/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Rohit-2026/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Rohit-2026/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/Rohit-2026/Leetcode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Rohit-2026/Leetcode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Rohit-2026/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Rohit-2026/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Rohit-2026/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Rohit-2026/Leetcode/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/Rohit-2026/Leetcode/tree/master/0768-partition-labels) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rohit-2026/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
