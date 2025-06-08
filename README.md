@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Rohit-2026/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/Rohit-2026/Leetcode/tree/master/0684-redundant-connection) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rohit-2026/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Rohit-2026/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -311,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rohit-2026/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Rohit-2026/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
