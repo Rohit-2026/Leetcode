@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohit-2026/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Rohit-2026/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rohit-2026/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Rohit-2026/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Rohit-2026/Leetcode/tree/master/0768-partition-labels) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rohit-2026/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rohit-2026/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Rohit-2026/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Tree
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohit-2026/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Rohit-2026/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Rohit-2026/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Recursion
 |  |
 | ------- |
