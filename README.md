@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rohit-2026/Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Rohit-2026/Leetcode/tree/master/0070-climbing-stairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rohit-2026/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rohit-2026/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rohit-2026/Leetcode/tree/master/0002-add-two-numbers) |
 | [2050-count-good-numbers](https://github.com/Rohit-2026/Leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rohit-2026/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rohit-2026/Leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rohit-2026/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Trie
 |  |
