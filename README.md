@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rohit-2026/Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Rohit-2026/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Rohit-2026/Leetcode/tree/master/0263-ugly-number) |
+| [0441-arranging-coins](https://github.com/Rohit-2026/Leetcode/tree/master/0441-arranging-coins) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rohit-2026/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rohit-2026/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rohit-2026/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Rohit-2026/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0441-arranging-coins](https://github.com/Rohit-2026/Leetcode/tree/master/0441-arranging-coins) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohit-2026/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Rohit-2026/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
