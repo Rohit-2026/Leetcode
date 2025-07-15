@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rohit-2026/Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Rohit-2026/Leetcode/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/Rohit-2026/Leetcode/tree/master/0263-ugly-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rohit-2026/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rohit-2026/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rohit-2026/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
