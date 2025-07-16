@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rohit-2026/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rohit-2026/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/Rohit-2026/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Rohit-2026/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Rohit-2026/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rohit-2026/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Rohit-2026/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/Rohit-2026/Leetcode/tree/master/0441-arranging-coins) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohit-2026/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
