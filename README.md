@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rohit-2026/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Rohit-2026/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rohit-2026/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Rohit-2026/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Rohit-2026/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rohit-2026/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1791-richest-customer-wealth](https://github.com/Rohit-2026/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rohit-2026/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rohit-2026/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Rohit-2026/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Rohit-2026/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Rohit-2026/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rohit-2026/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rohit-2026/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Rohit-2026/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rohit-2026/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Rohit-2026/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Rohit-2026/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rohit-2026/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rohit-2026/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohit-2026/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
