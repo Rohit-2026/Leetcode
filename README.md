@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rohit-2026/Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Rohit-2026/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Rohit-2026/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Rohit-2026/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Rohit-2026/Leetcode/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/Rohit-2026/Leetcode/tree/master/0441-arranging-coins) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Rohit-2026/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Rohit-2026/Leetcode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Rohit-2026/Leetcode/tree/master/0461-hamming-distance) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohit-2026/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rohit-2026/Leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Rohit-2026/Leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/Rohit-2026/Leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rohit-2026/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
