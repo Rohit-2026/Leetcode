@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Rohit-2026/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Rohit-2026/Leetcode/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/Rohit-2026/Leetcode/tree/master/0441-arranging-coins) |
+| [0867-new-21-game](https://github.com/Rohit-2026/Leetcode/tree/master/0867-new-21-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rohit-2026/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rohit-2026/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rohit-2026/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit-2026/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Rohit-2026/Leetcode/tree/master/0567-permutation-in-string) |
+| [0867-new-21-game](https://github.com/Rohit-2026/Leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Rohit-2026/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Rohit-2026/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rohit-2026/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Rohit-2026/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Rohit-2026/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Rohit-2026/Leetcode/tree/master/0338-counting-bits) |
+| [0867-new-21-game](https://github.com/Rohit-2026/Leetcode/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rohit-2026/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Rohit-2026/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rohit-2026/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -382,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rohit-2026/Leetcode/tree/master/0258-add-digits) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/Rohit-2026/Leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
