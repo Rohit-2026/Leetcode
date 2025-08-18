@@ -389,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/Rohit-2026/Leetcode/tree/master/0867-new-21-game) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/Rohit-2026/Leetcode/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
