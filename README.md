@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit-2026/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Rohit-2026/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Rohit-2026/Leetcode/tree/master/0020-valid-parentheses) |
 | [0567-permutation-in-string](https://github.com/Rohit-2026/Leetcode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Rohit-2026/Leetcode/tree/master/0768-partition-labels) |
 | [1160-letter-tile-possibilities](https://github.com/Rohit-2026/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rohit-2026/Leetcode/tree/master/0020-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rohit-2026/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rohit-2026/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Rohit-2026/Leetcode/tree/master/3447-clear-digits) |
