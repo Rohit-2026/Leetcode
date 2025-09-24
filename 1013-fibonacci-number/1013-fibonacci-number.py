@@ -1,7 +1,14 @@
 class Solution:
     def fib(self, n: int) -> int:
-        t=[0,1]
-        for i in range(2,n+1):
-            t.append(t[-1]+t[-2])
-        return t[n]    
+        a=[0]*(n+1)
+        def fibb(n):
+            if n in [0,1]:
+                return n
+            if a[n]!=0:
+                return a[n]
+            a[n]=fibb(n-1)+fibb(n-2) 
+            return a[n]
+        return fibb(n)    
+
+
         
