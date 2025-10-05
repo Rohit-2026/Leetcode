@@ -412,4 +412,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0620-not-boring-movies](https://github.com/Rohit-2026/Leetcode/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/Rohit-2026/Leetcode/tree/master/1258-article-views-i) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/Rohit-2026/Leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 <!---LeetCode Topics End-->
